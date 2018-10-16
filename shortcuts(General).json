@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "Description": "Save all",
+    "Windows/Linux": "Control + S",
+    "Mac": "Command + S"
+  },
+  {
+    "id": 1,
+    "Description": "Synchronize",
+    "Windows/Linux": "Control + Alt + Y",
+    "Mac": "Command + Option + Y"
+  },
+  {
+    "id": 2,
+    "Description": "Maximize/minimize editor",
+    "Windows/Linux": "Control + Shift + F12",
+    "Mac": "Control + Command + F12"
+  },
+  {
+    "id": 3,
+    "Description": "Add to favorites",
+    "Windows/Linux": "Alt + Shift + F",
+    "Mac": "Option + Shift + F"
+  },
+  {
+    "id": 4,
+    "Description": "Inspect current file with current profile",
+    "Windows/Linux": "Alt + Shift + I",
+    "Mac": "Option + Shift + I"
+  },
+  {
+    "id": 5,
+    "Description": "Quick switch scheme",
+    "Windows/Linux": "Control + ` (backquote)",
+    "Mac": "Control + ` (backquote)"
+  },
+  {
+    "id": 6,
+    "Description": "Open settings dialogue",
+    "Windows/Linux": "Control + Alt + S",
+    "Mac": "Command + , (comma)"
+  },
+  {
+    "id": 7,
+    "Description": "Open project structure dialog",
+    "Windows/Linux": "Control + Alt + Shift + S",
+    "Mac": "Command + ; (semicolon)"
+  },
+  {
+    "id": 8,
+    "Description": "Switch between tabs and tool window",
+    "Windows/Linux": "Control + Tab",
+    "Mac": "Control + Tab"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "Description": "Search everything",
+    "Windows/Linux": "Press Shift twice",
+    "Mac": "Press Shift twice"
+  },
+  {
+    "id": 1,
+    "Description": "Find",
+    "Windows/Linux": "Control + F",
+    "Mac": "Command + F"
+  },
+  {
+    "id": 2,
+    "Description": "Find next",
+    "Windows/Linux": "F3",
+    "Mac": "Command + G"
+  },
+  {
+    "id": 3,
+    "Description": "Find previous",
+    "Windows/Linux": "Shift + F3",
+    "Mac": "Command + Shift + G"
+  },
+  {
+    "id": 4,
+    "Description": "Replace",
+    "Windows/Linux": "Control + R",
+    "Mac": "Command + R"
+  },
+  {
+    "id": 5,
+    "Description": "Find action",
+    "Windows/Linux": "Control + Shift + A",
+    "Mac": "Command + Shift + A"
+  },
+  {
+    "id": 6,
+    "Description": "Search by symbol name",
+    "Windows/Linux": "Control + Alt + Shift + N",
+    "Mac": "Command + Option + O"
+  },
+  {
+    "id": 7,
+    "Description": "Find class",
+    "Windows/Linux": "Control + N",
+    "Mac": "Command + O"
+  },
+  {
+    "id": 8,
+    "Description": "Find file (instead of class)",
+    "Windows/Linux": "Control + Shift + N",
+    "Mac": "Command + Shift + O"
+  },
+  {
+    "id": 9,
+    "Description": "Find in path",
+    "Windows/Linux": "Control + Shift + F",
+    "Mac": "Command + Shift + F"
+  },
+  {
+    "id": 10,
+    "Description": "Open file structure pop-up",
+    "Windows/Linux": "Control + F12",
+    "Mac": "Command + F12"
+  },
+  {
+    "id": 11,
+    "Description": "Navigate between open editor tabs",
+    "Windows/Linux": "Alt + Right/Left Arrow",
+    "Mac": "Control + Right/Left Arrow"
+  },
+  {
+    "id": 12,
+    "Description": "Jump to source",
+    "Windows/Linux": "F4 / Control + Enter",
+    "Mac": "F4 / Command + Down Arrow"
+  },
+  {
+    "id": 13,
+    "Description": "Open current editor tab in new window",
+    "Windows/Linux": "Shift + F4",
+    "Mac": "Shift + F4"
+  },
+  {
+    "id": 14,
+    "Description": "Recently opened files pop-up",
+    "Windows/Linux": "Control + E",
+    "Mac": "Command + E"
+  },
+  {
+    "id": 15,
+    "Description": "Recently edited files pop-up",
+    "Windows/Linux": "Control + Shift + E",
+    "Mac": "Command + Shift + E"
+  },
+  {
+    "id": 16,
+    "Description": "Go to last edit location",
+    "Windows/Linux": "Control + Shift + Backspace",
+    "Mac": "Command + Shift + Backspace"
+  },
+  {
+    "id": 17,
+    "Description": "Close active editor tab",
+    "Windows/Linux": "Control + F4",
+    "Mac": "Command + W"
+  },
+  {
+    "id": 18,
+    "Description": "Return to editor window from a tool window",
+    "Windows/Linux": "Esc",
+    "Mac": "Esc"
+  },
+  {
+    "id": 19,
+    "Description": "Hide active or last active tool window",
+    "Windows/Linux": "Shift + Esc",
+    "Mac": "Shift + Esc"
+  },
+  {
+    "id": 20,
+    "Description": "Go to line",
+    "Windows/Linux": "Control + G",
+    "Mac": "Command + L"
+  },
+  {
+    "id": 21,
+    "Description": "Open type hierarchy",
+    "Windows/Linux": "Control + H",
+    "Mac": "Control + H"
+  },
+  {
+    "id": 22,
+    "Description": "Open method hierarchy",
+    "Windows/Linux": "Control + Shift + H",
+    "Mac": "Command + Shift + H"
+  },
+  {
+    "id": 23,
+    "Description": "Open call hierarchy",
+    "Windows/Linux": "Control + Alt + H",
+    "Mac": "Control + Option + H"
+  }
+]
