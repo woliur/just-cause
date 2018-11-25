@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "Description": "Copy",
+    "Windows/Linux": "F5",
+    "Mac": "F5"
+  },
+  {
+    "id": 1,
+    "Description": "Move",
+    "Windows/Linux": "F6",
+    "Mac": "F6"
+  },
+  {
+    "id": 2,
+    "Description": "Safe delete",
+    "Windows/Linux": "Alt + Delete",
+    "Mac": "Command + Delete"
+  },
+  {
+    "id": 3,
+    "Description": "Rename",
+    "Windows/Linux": "Shift + F6",
+    "Mac": "Shift + F6"
+  },
+  {
+    "id": 4,
+    "Description": "Change signature",
+    "Windows/Linux": "Control + F6",
+    "Mac": "Command + F6"
+  },
+  {
+    "id": 5,
+    "Description": "Inline",
+    "Windows/Linux": "Control + Alt + N",
+    "Mac": "Command + Option + N"
+  },
+  {
+    "id": 6,
+    "Description": "Extract method",
+    "Windows/Linux": "Control + Alt + M",
+    "Mac": "Command + Option + M"
+  },
+  {
+    "id": 7,
+    "Description": "Extract variable",
+    "Windows/Linux": "Control + Alt + V",
+    "Mac": "Command + Option + V"
+  },
+  {
+    "id": 8,
+    "Description": "Extract field",
+    "Windows/Linux": "Control + Alt + F",
+    "Mac": "Command + Option + F"
+  },
+  {
+    "id": 9,
+    "Description": "Extract constant",
+    "Windows/Linux": "Control + Alt + C",
+    "Mac": "Command + Option + C"
+  },
+  {
+    "id": 9,
+    "Description": "Extract parameter",
+    "Windows/Linux": "Control + Alt + P",
+    "Mac": "Command + Option + P"
+  }
+]

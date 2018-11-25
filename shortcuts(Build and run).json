@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "Description": "Build",
+    "Windows/Linux": "Control + F9",
+    "Mac": "Command + F9"
+  },
+  {
+    "id": 1,
+    "Description": "Build and run",
+    "Windows/Linux": "Shift + F10",
+    "Mac": "Control + R"
+  },
+  {
+    "id": 2,
+    "Description": "Apply changes (with Instant Run)",
+    "Windows/Linux": "Control + F10",
+    "Mac": "Control + Command + R"
+  }
+]

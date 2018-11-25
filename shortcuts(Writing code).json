@@ -1,0 +1,236 @@
+[
+  {
+    "id": 0,
+    "Description": "Generate code (getters, setters, constructors, hashCode/equals, toString, new file, new class)",
+    "Windows/Linux": "Alt + Insert",
+    "Mac": "Command + N"
+  },
+  {
+    "id": 1,
+    "Description": "Override methods",
+    "Windows/Linux": "Control + O",
+    "Mac": "Control + O"
+  },
+  {
+    "id": 2,
+    "Description": "Implement methods",
+    "Windows/Linux": "Control + I",
+    "Mac": "Control + I"
+  },
+  {
+    "id": 3,
+    "Description": "Surround with (if...else / try...catch / etc.)",
+    "Windows/Linux": "Control + Alt + T",
+    "Mac": "Command + Option + T"
+  },
+  {
+    "id": 4,
+    "Description": "Delete line at caret",
+    "Windows/Linux": "Control + Y",
+    "Mac": "Command + Backspace"
+  },
+  {
+    "id": 5,
+    "Description": "Collapse/expand current code block",
+    "Windows/Linux": "Control + minus/plus",
+    "Mac": "Command + minus/plus"
+  },
+  {
+    "id": 6,
+    "Description": "Collapse/expand all code blocks",
+    "Windows/Linux": "Control + Shift + minus/plus",
+    "Mac": "Command + Shift + minus/plus"
+  },
+  {
+    "id": 7,
+    "Description": "Duplicate current line or selection",
+    "Windows/Linux": "Control + D",
+    "Mac": "Command + D"
+  },
+  {
+    "id": 8,
+    "Description": "Basic code completion",
+    "Windows/Linux": "Control + Space",
+    "Mac": "Control + Space"
+  },
+  {
+    "id": 9,
+    "Description": "Smart code completion (filters the list of methods and variables by expected type)",
+    "Windows/Linux": "Control + Shift + Space",
+    "Mac": "Control + Shift + Space"
+  },
+  {
+    "id": 10,
+    "Description": "Complete statement",
+    "Windows/Linux": "Control + Shift + Enter",
+    "Mac": "Command + Shift + Enter"
+  },
+  {
+    "id": 11,
+    "Description": "Quick documentation lookup",
+    "Windows/Linux": "Control + Q",
+    "Mac": "Control + J"
+  },
+  {
+    "id": 12,
+    "Description": "Show parameters for selected method",
+    "Windows/Linux": "Control + P",
+    "Mac": "Command + P"
+  },
+  {
+    "id": 13,
+    "Description": "Go to declaration (directly)",
+    "Windows/Linux": "Control + B or Control + Click",
+    "Mac": "Command + B or Command + Click"
+  },
+  {
+    "id": 14,
+    "Description": "Go to implementations",
+    "Windows/Linux": "Control + Alt + B",
+    "Mac": "Command + Alt + B"
+  },
+  {
+    "id": 15,
+    "Description": "Go to super-method/super-class",
+    "Windows/Linux": "Control + U",
+    "Mac": "Command + U"
+  },
+  {
+    "id": 16,
+    "Description": "Open quick definition lookup",
+    "Windows/Linux": "Control + Shift + I",
+    "Mac": "Command + Y"
+  },
+  {
+    "id": 17,
+    "Description": "Toggle project tool window visibility",
+    "Windows/Linux": "Alt + 1",
+    "Mac": "Command + 1"
+  },
+  {
+    "id": 18,
+    "Description": "Toggle bookmark",
+    "Windows/Linux": "F11",
+    "Mac": "F3"
+  },
+  {
+    "id": 19,
+    "Description": "Toggle bookmark with mnemonic",
+    "Windows/Linux": "Control + F11",
+    "Mac": "Option + F3"
+  },
+  {
+    "id": 20,
+    "Description": "Comment/uncomment with line comment",
+    "Windows/Linux": "Control + /",
+    "Mac": "Command + /"
+  },
+  {
+    "id": 21,
+    "Description": "Comment/uncomment with block comment",
+    "Windows/Linux": "Control + Shift + /",
+    "Mac": "Command + Shift + /"
+  },
+  {
+    "id": 22,
+    "Description": "Select successively increasing code blocks",
+    "Windows/Linux": "Control + W",
+    "Mac": "Option + Up"
+  },
+  {
+    "id": 23,
+    "Description": "Decrease current selection to previous state",
+    "Windows/Linux": "Control + Shift + W",
+    "Mac": "Option + Down"
+  },
+  {
+    "id": 24,
+    "Description": "Move to code block start",
+    "Windows/Linux": "Control + [",
+    "Mac": "Option + Command + ["
+  },
+  {
+    "id": 25,
+    "Description": "Move to code block end",
+    "Windows/Linux": "Control + ]",
+    "Mac": "Option + Command + ]"
+  },
+  {
+    "id": 26,
+    "Description": "Select to the code block start",
+    "Windows/Linux": "Control + Shift + [",
+    "Mac": "Option + Command + Shift + ["
+  },
+  {
+    "id": 27,
+    "Description": "Select to the code block end",
+    "Windows/Linux": "Control + Shift + ]",
+    "Mac": "Option + Command + Shift + ]"
+  },
+  {
+    "id": 28,
+    "Description": "Delete to end of word",
+    "Windows/Linux": "Control + Delete",
+    "Mac": "Option + Delete"
+  },
+  {
+    "id": 29,
+    "Description": "Delete to start of word",
+    "Windows/Linux": "Control + Backspace",
+    "Mac": "Option + Backspace"
+  },
+  {
+    "id": 30,
+    "Description": "Optimize imports",
+    "Windows/Linux": "Control + Alt + O",
+    "Mac": "Control + Option + O"
+  },
+  {
+    "id": 31,
+    "Description": "Project quick fix (show intention actions and quick fixes)",
+    "Windows/Linux": "Alt + Enter",
+    "Mac": "Option + Enter"
+  },
+  {
+    "id": 32,
+    "Description": "Reformat code",
+    "Windows/Linux": "Control + Alt + L",
+    "Mac": "Command + Option + L"
+  },
+  {
+    "id": 33,
+    "Description": "Auto-indent lines",
+    "Windows/Linux": "Control + Alt + I",
+    "Mac": "Control + Option + I"
+  },
+  {
+    "id": 34,
+    "Description": "Indent/unindent lines",
+    "Windows/Linux": "Tab/Shift + Tab",
+    "Mac": "Tab/Shift + Tab"
+  },
+  {
+    "id": 35,
+    "Description": "Smart line join",
+    "Windows/Linux": "Control + Shift + J",
+    "Mac": "Control + Shift + J"
+  },
+  {
+    "id": 36,
+    "Description": "Smart line split",
+    "Windows/Linux": "Control + Enter",
+    "Mac": "Command + Enter"
+  },
+  {
+    "id": 37,
+    "Description": "Start new line",
+    "Windows/Linux": "Shift + Enter",
+    "Mac": "Shift + Enter"
+  },
+  {
+    "id": 38,
+    "Description": "Next/previous highlighted error",
+    "Windows/Linux": "F2 / Shift + F2",
+    "Mac": "F2 / Shift + F2"
+  }
+]

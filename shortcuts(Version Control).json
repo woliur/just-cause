@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "Description": "Commit project to VCS",
+    "Windows/Linux": "Control + K",
+    "Mac": "Command + K"
+  },
+  {
+    "id": 1,
+    "Description": "Update project from VCS",
+    "Windows/Linux": "Control + T",
+    "Mac": "Command + T"
+  },
+  {
+    "id": 2,
+    "Description": "View recent changes",
+    "Windows/Linux": "Alt + Shift + C",
+    "Mac": "Option + Shift + C"
+  },
+  {
+    "id": 3,
+    "Description": "Open VCS popup",
+    "Windows/Linux": "Alt + ` (backquote)",
+    "Mac": "Control + V"
+  }
+]

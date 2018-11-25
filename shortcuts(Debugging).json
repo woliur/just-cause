@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "Description": "Debug",
+    "Windows/Linux": "Shift + F9",
+    "Mac": "Control + D"
+  },
+  {
+    "id": 1,
+    "Description": "Step over",
+    "Windows/Linux": "F8",
+    "Mac": "F8"
+  },
+  {
+    "id": 2,
+    "Description": "Step into",
+    "Windows/Linux": "F7",
+    "Mac": "F7"
+  },
+  {
+    "id": 3,
+    "Description": "Smart step into",
+    "Windows/Linux": "Shift + F7",
+    "Mac": "Shift + F7"
+  },
+  {
+    "id": 4,
+    "Description": "Step out",
+    "Windows/Linux": "Shift + F8",
+    "Mac": "Shift + F8"
+  },
+  {
+    "id": 5,
+    "Description": "Run to cursor",
+    "Windows/Linux": "Alt + F9",
+    "Mac": "Option + F9"
+  },
+  {
+    "id": 6,
+    "Description": "Evaluate expression",
+    "Windows/Linux": "Alt + F8",
+    "Mac": "Option + F8"
+  },
+  {
+    "id": 7,
+    "Description": "Resume program",
+    "Windows/Linux": "F9",
+    "Mac": "Command + Option + R"
+  },
+  {
+    "id": 8,
+    "Description": "Toggle breakpoint",
+    "Windows/Linux": "Control + F8",
+    "Mac": "Command + F8"
+  },
+  {
+    "id": 9,
+    "Description": "View breakpoints",
+    "Windows/Linux": "Control + Shift + F8",
+    "Mac": "Command + Shift + F8"
+  }
+]
